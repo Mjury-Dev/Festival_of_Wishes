@@ -1,0 +1,4 @@
+repository "GAME PROJECT/Festival of Wishes@2475318608300@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 87bc06dd004df584ca3a81adba6d8d8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6857143806202220459
+    second: Kimono girl-Sheet_0
+  - first:
+      213: -4613547359823429205
+    second: Kimono girl-Sheet_1
+  - first:
+      213: -6268845782808998518
+    second: Kimono girl-Sheet_2
+  - first:
+      213: -1525338096533571063
+    second: Kimono girl-Sheet_3
+  - first:
+      213: -5528957676311614069
+    second: Kimono girl-Sheet_4
+  - first:
+      213: -5941468922932807782
+    second: Kimono girl-Sheet_5
+  - first:
+      213: 6637050243062755229
+    second: Kimono girl-Sheet_6
+  - first:
+      213: -3010990584374267177
+    second: Kimono girl-Sheet_7
+  - first:
+      213: -852306793018913530
+    second: Kimono girl-Sheet_8
+  - first:
+      213: -8766347924390199717
+    second: Kimono girl-Sheet_9
+  - first:
+      213: 2825194908400812939
+    second: Kimono girl-Sheet_10
+  - first:
+      213: -2082181574153358111
+    second: Kimono girl-Sheet_11
+  - first:
+      213: 2804428024832082271
+    second: Kimono girl-Sheet_12
+  - first:
+      213: 5811109296466547559
+    second: Kimono girl-Sheet_13
+  - first:
+      213: -7506585640353987133
+    second: Kimono girl-Sheet_14
+  - first:
+      213: -6246557831782397001
+    second: Kimono girl-Sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 19
+        width: 172
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf047606f7792f50800000000000000
+      internalID: 6857143806202220459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 9
+        width: 172
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1884fae1369ffb0800000000000000
+      internalID: -4613547359823429205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 19
+        width: 172
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dc6fb69f59009a0800000000000000
+      internalID: -6268845782808998518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 9
+        width: 172
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90afeb13519e4dae0800000000000000
+      internalID: -1525338096533571063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 19
+        width: 172
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8de64d79423543b0800000000000000
+      internalID: -5528957676311614069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 19
+        width: 182
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97319c6e79ab8da0800000000000000
+      internalID: -5941468922932807782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 19
+        width: 172
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fec2e080a8b1c50800000000000000
+      internalID: 6637050243062755229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 19
+        width: 182
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d273543400d636d0800000000000000
+      internalID: -3010990584374267177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 19
+        width: 182
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d847acc7ffb24f0800000000000000
+      internalID: -852306793018913530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 19
+        width: 182
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e3d35420da75680800000000000000
+      internalID: -8766347924390199717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 19
+        width: 182
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830978fccb153720800000000000000
+      internalID: 2825194908400812939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 19
+        width: 182
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4b9b2e3ea9a13e0800000000000000
+      internalID: -2082181574153358111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 19
+        width: 172
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51444a1e645be620800000000000000
+      internalID: 2804428024832082271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 9
+        width: 172
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763dbd6dd1535a050800000000000000
+      internalID: 5811109296466547559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 19
+        width: 172
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c507a6b12043d790800000000000000
+      internalID: -7506585640353987133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kimono girl-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 9
+        width: 172
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb0da76fb4cf49a0800000000000000
+      internalID: -6246557831782397001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kimono girl-Sheet_0: 6857143806202220459
+      Kimono girl-Sheet_1: -4613547359823429205
+      Kimono girl-Sheet_10: 2825194908400812939
+      Kimono girl-Sheet_11: -2082181574153358111
+      Kimono girl-Sheet_12: 2804428024832082271
+      Kimono girl-Sheet_13: 5811109296466547559
+      Kimono girl-Sheet_14: -7506585640353987133
+      Kimono girl-Sheet_15: -6246557831782397001
+      Kimono girl-Sheet_2: -6268845782808998518
+      Kimono girl-Sheet_3: -1525338096533571063
+      Kimono girl-Sheet_4: -5528957676311614069
+      Kimono girl-Sheet_5: -5941468922932807782
+      Kimono girl-Sheet_6: 6637050243062755229
+      Kimono girl-Sheet_7: -3010990584374267177
+      Kimono girl-Sheet_8: -852306793018913530
+      Kimono girl-Sheet_9: -8766347924390199717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
