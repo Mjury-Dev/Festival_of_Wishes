@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 public class VideoSceneChanger : MonoBehaviour
 {
     public VideoPlayer videoPlayer;
-    public string nextSceneName;        // Type the next scene name or assign via Inspector
 
     void Start()
     {

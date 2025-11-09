@@ -4,7 +4,9 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D), typeof(Animator))]
 public class PlayerController : MonoBehaviour
 {
+    [Header("Movement Settings")]
     public float moveSpeed = 5f;
+    public float runMultiplier = 2f; // how much faster when running (Shift)
 
     private Rigidbody2D rb;
     private Animator animator;
@@ -40,7 +42,6 @@ public class PlayerController : MonoBehaviour
         // Always face the last direction, even when idle
         animator.SetFloat("moveX", lastMoveDir.x);
         animator.SetFloat("moveY", lastMoveDir.y);
-
         animator.SetBool("isMoving", input != Vector2.zero);
     }
 
@@ -48,7 +49,16 @@ public class PlayerController : MonoBehaviour
     {
         if (!isAttacking && input != Vector2.zero)
         {
-            Vector2 newPos = rb.position + input * moveSpeed * Time.fixedDeltaTime;
+            // Check if player is holding Shift to run
+            bool isRunning = Input.GetKey(KeyCode.LeftShift);
+
+            float currentSpeed = moveSpeed;
+            if (isRunning)
+            {
+                currentSpeed *= runMultiplier;
+            }
+
+            Vector2 newPos = rb.position + input * currentSpeed * Time.fixedDeltaTime;
             rb.MovePosition(newPos);
         }
         else
